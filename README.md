@@ -7,6 +7,8 @@ This is a simple **T-Rex runner game** implemented on an **Arduino** with a 16x2
 
 ![image](/attachments/image5.jpeg)
 
+
+
 ## 🚀 Features:
 - **LCD Display**: Displays the game, including the runner and obstacles.
 - **Jumping Mechanism**: Press the button to make the dinosaur jump over obstacles.
