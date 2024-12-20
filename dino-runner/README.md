@@ -1,4 +1,4 @@
-# T-Rex Runner Game - Code Explanation
+# Explain - CHow the Code Works?
 
 ## 1. **Setting the Cursor Position:**
 
