@@ -5,6 +5,8 @@
 ## 📜 Description
 This is a simple **T-Rex runner game** implemented on an **Arduino** with a 16x2 **LCD screen**. The game features a dinosaur that jumps to avoid obstacles (cacti). The player controls the dinosaur using a button. The goal is to avoid the obstacles and achieve a high score!
 
+![image](/attachments/image5.jpeg)
+
 ## 🚀 Features:
 - **LCD Display**: Displays the game, including the runner and obstacles.
 - **Jumping Mechanism**: Press the button to make the dinosaur jump over obstacles.
